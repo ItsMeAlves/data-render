@@ -1,0 +1,26 @@
+{
+  "name": "data-render",
+  "version": "1.0.0",
+  "description": "A Express.js middleware that pass data to render templates automatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsMeAlves/data-render.git"
+  },
+  "keywords": [
+    "data",
+    "render",
+    "pass",
+    "template",
+    "express"
+  ],
+  "author": "Gabriel Alves (ItsMeAlves)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsMeAlves/data-render/issues"
+  },
+  "homepage": "https://github.com/ItsMeAlves/data-render#readme"
+}
